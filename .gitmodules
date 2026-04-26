@@ -1,0 +1,15 @@
+[submodule "ApproxiMPC"]
+	path = ApproxiMPC
+	url = git@github.com:henry-feldhaus/ApproxiMPC.git
+[submodule "mpc_racer"]
+	path = mpc_racer
+	url = git@github.com:henry-feldhaus/f1tenth_mpc_racer.git
+[submodule "lstm_racer"]
+	path = lstm_racer
+	url = git@github.com:reggiedec/lstm_racer.git
+[submodule "controller_benchmark"]
+	path = controller_benchmark
+	url = git@github.com:henry-feldhaus/f1tenth_controller_benchmark.git
+[submodule "f1tenth_gym_ros"]
+	path = f1tenth_gym_ros
+	url = git@github.com:henry-feldhaus/F1TenthGym.git
